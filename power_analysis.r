@@ -1,6 +1,6 @@
 install.packages("pwr")
 library(pwr)
-
+# https://github.com/heliosdrm/pwr
 
 # perform power analysis of dataset
 
